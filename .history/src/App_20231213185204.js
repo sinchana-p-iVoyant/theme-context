@@ -6,6 +6,6 @@ export default function App() {
   return (
     <ThemeProvider>
       <FunctionContextComponent />
-    </ThemeProvider>
+    </ThemeProvider >
 )
 }  
